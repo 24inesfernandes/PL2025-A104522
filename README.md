@@ -2,7 +2,7 @@
 
 ### Identificação
 - **Nome:** Maria Inês da Rocha Pinto Gracias Fernandes
-- **Número de Aluno:** a104522
+- **Número Mecanográfico:** a104522
 - ![a104522](foto.jpg)
 
 ### Sobre este Repositório
