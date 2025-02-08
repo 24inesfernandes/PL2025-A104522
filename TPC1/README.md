@@ -3,7 +3,7 @@
 - **Data:** 7 de fevereiro 2025
 - **Nome:** Maria Inês da Rocha Pinto Gracias Fernandes
 - **Número Mecanográfico:** a104522
-- <img src="../foto.jpg" alt="foto" width="300">
+<img src="../foto.jpg" alt="foto" width="300">
 
 ### Resumo 
 - O trabalho consistiu em criar um somador on/of em Python.
