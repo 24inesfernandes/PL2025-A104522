@@ -1,4 +1,4 @@
-# TPC1 - Processamento de Linguagens
+# TPC1 - Somador On/Off: Criar o Programa em Python
 
 - **Data:** 7 de fevereiro 2025
 - **Nome:** Maria Inês da Rocha Pinto Gracias Fernandes
